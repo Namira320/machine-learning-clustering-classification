@@ -104,16 +104,16 @@ Using the labeled dataset generated from the clustering phase (`data_clustering_
 
 
 * **Machine Learning (Scikit-Learn):**
-* *Preprocesing:* StandardScaler, LabelEncoder
+  * *Preprocesing:* StandardScaler, LabelEncoder
 
 
-* *Clustering:* KMeans, PCA
+   * *Clustering:* KMeans, PCA
 
 
-* *Classification:* DecisionTreeClassifier, RandomForestClassifier
+   * *Classification:* DecisionTreeClassifier, RandomForestClassifier
 
 
-* *Evaluation & Tuning:* train_test_split, GridSearchCV, classification_report
+   * *Evaluation & Tuning:* train_test_split, GridSearchCV, classification_report
 
 
 
