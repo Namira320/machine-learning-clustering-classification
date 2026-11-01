@@ -126,21 +126,14 @@ Using the labeled dataset generated from the clustering phase (`data_clustering_
 
 ## 🚀 How to Run
 
-1. Clone this repository:
-```bash
-git clone [https://github.com/Namira320/your-repo-name.git](https://github.com/Namira320/your-repo-name.git)
-
-```
-
-
-2. Install the required dependencies:
+1. Install the required dependencies:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn yellowbrick joblib
 
 ```
 
 
-3. Run the Jupyter Notebooks or load the pre-trained `.h5` models using `joblib`:
+2. Run the Jupyter Notebooks or load the pre-trained `.h5` models using `joblib`:
 ```python
 import joblib
 model = joblib.load('tuning_classification.h5')
