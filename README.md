@@ -4,9 +4,10 @@ This repository contains an end-to-end Machine Learning project divided into two
 
 ---
 
-> 📜 **Certification Context:** This project was developed as the final submission for the **Machine Learning for Beginners** class in the **Dicoding Asah** program.  
-> 👉 **[View Complete 3-Page Certificate (PDF)](Machine-Learning-for-Beginners.pdf)**
+> 📜 **Certification Context:** This project was developed as the final submission for the **Machine Learning for Beginners** class in the **Dicoding Asah** program.
 > 
+> [![Dicoding Certificate - Page 1](certificate/certificate-page1.png)](Machine-Learning-for-Beginners.pdf)
+
 ---
 
 ## 📁 Project Structure
